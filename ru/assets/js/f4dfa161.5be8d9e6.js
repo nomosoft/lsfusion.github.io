@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkls_fusion_docs=self.webpackChunkls_fusion_docs||[]).push([[96810],{15493:function(s){s.exports=JSON.parse('{"allTagsPath":"/ru/blog/tags","slug":"/ru/blog/tags/hola","name":"hola","count":1,"permalink":"/ru/blog/tags/hola"}')}}]);
